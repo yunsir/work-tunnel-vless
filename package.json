@@ -1,17 +1,13 @@
 {
-  "name": "work-tunnel-vless",
+  "name": "aether",
   "version": "1.2.7",
-  "description": "Node.js WebSocket Tunnel Server with VLESS Protocol",
+  "description": "aether",
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js"
   },
   "author": "playwjj",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/playwjj/work-tunnel-vless"
-  },
+  "license": "MIT",  
   "private": false,
   "dependencies": {
     "axios": "^1.6.2",
